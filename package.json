@@ -1,5 +1,5 @@
 {
-  "name": "@nstar/baileys",
+  "name": "@kerooo-debug/whiskey",
   "version": "6.7.5",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/Bail",
+  "homepage": "https://github.com/kerooo-debug/Whiskey",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
+    "url": "git+ssh://git@github.com/kerooo-debug/Whiskey.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
