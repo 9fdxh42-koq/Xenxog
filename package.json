@@ -1,5 +1,5 @@
 {
-  "name": "@kerooo-debug/whiskey",
+  "name": "@9fdxh42-koq/Baileys",
   "version": "6.7.5",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/kerooo-debug/Whiskey",
+  "homepage": "https://github.com/9fdxh42-koq/Baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/kerooo-debug/Whiskey.git"
+    "url": "git+ssh://git@github.com/9fdxh42-koq/Xenxog.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
@@ -51,7 +51,7 @@
     "cache-manager": "4.0.1",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:kerooo-debug/libsignal",
+    "libsignal": "github:9fdxh42-koq/libsignal",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
