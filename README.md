@@ -1,3 +1,0 @@
-``` bash
-i love you
-```
